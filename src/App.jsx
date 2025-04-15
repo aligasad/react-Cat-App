@@ -25,7 +25,7 @@ function App() {
         <img src="src/assets/asadpic1.jpg" alt="pic" />
         <h1>Image Gallery</h1>
         <div className='logo'>
-          <a href=""><FaCode /></a>
+          <a href="https://github.com/aligasad/react-Cat-App"><FaCode /></a>
           <a href="https://github.com/aligasad"><FaSquareGithub /></a>
           
         </div>
